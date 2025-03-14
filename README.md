@@ -1,6 +1,6 @@
 # Data Warehouse Implementation Project
 
-The follwing notebook has been published publicly on databricks along with the results.. [Click Here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3969169828089009/2859625473491059/2340490761257204/latest.html).
+The follwing notebook has been published publicly on databricks along with the results. [Click Here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3969169828089009/2859625473491059/2340490761257204/latest.html).
 ## Extracting the Data
  1. Create tables in the hive meta store by going to `catalog` -> `create table`. Upload the csv files downloaded from [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv).
  
